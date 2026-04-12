@@ -1,0 +1,63 @@
+Name: Candidate Name
+Email: candidate@example.com
+Phone: +91 9000000000
+Location: Bangalore, India
+
+----------------------------------------
+CAREER OBJECTIVE
+----------------------------------------
+Motivated Computer Science student with strong interest in Machine Learning and Data Science. Seeking opportunities to apply technical skills in real-world applications.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+B.E. in Computer Science Engineering
+XYZ College of Engineering
+2023 – 2027
+CGPA: 8.5
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Programming: Python, Java
+Libraries & Tools: NumPy, Pandas, Scikit-learn
+Databases: SQL
+Technologies: Machine Learning, Data Analysis, AI
+Other: Problem Solving, Communication
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+1. Fake News Detection System
+- Built a machine learning model to classify fake and real news
+- Used Python, NLP, and Scikit-learn
+
+2. Job Recommendation System
+- Developed a system to match user skills with job roles
+- Used Python and data filtering techniques
+
+----------------------------------------
+INTERNSHIP
+----------------------------------------
+Data Science Intern
+ABC Tech Solutions (May 2025 – July 2025)
+- Performed data preprocessing and visualization
+- Assisted in building machine learning models
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Completed Machine Learning course (Coursera)
+- Participated in national-level hackathon
+
+----------------------------------------
+STRENGTHS
+----------------------------------------
+- Quick learner
+- Team player
+- Strong analytical thinking
+
+----------------------------------------
+LANGUAGES
+----------------------------------------
+English, Hindi
