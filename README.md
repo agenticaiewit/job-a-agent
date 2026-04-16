@@ -75,3 +75,12 @@ This application requires the following APIs to function. Ensure you have your k
 This project is for educational purposes only.
 
 ---
+## How to Run
+
+pip install -r requirements.txt
+python -m streamlit run app.py
+
+## Features
+- Job Search
+- Resume Analysis
+- Interview Prep
